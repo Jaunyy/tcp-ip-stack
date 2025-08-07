@@ -10,7 +10,7 @@ I built this following Sami Niiranen's tutorial series on coding a TCP/IP stack 
 
 Turns out reinventing the wheel is actually pretty fun when the wheel is made of packets and you get to see how the internet actually works behind all the magic.
 
-**What works:** Ping it and it pings back :) It's like having a very polite digital pet chihuahua that only knows one trick.
+**What works:** Ping it and it pings back 😎 It's like having a very polite digital pet chihuahua that only knows one trick.
 
 **What doesn't work:** Pretty much everything else you'd want to do on a network. No browsing Reddit, no downloading cat videos, no online gaming. Just good old-fashioned ICMP echo replies. But hey, at least I understand why my WiFi drops out now (spoiler: it's probably not my fault).
 
